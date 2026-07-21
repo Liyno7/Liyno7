@@ -1,0 +1,60 @@
+<svg viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nnLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8FE3E0" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g stroke="#3a3f6b" stroke-width="1.2" fill="none">
+    <path id="l1" d="M60 90 L230 40"/>
+    <path id="l2" d="M60 90 L230 90"/>
+    <path id="l3" d="M60 90 L230 140"/>
+    <path id="l4" d="M60 30 L230 40"/>
+    <path id="l5" d="M60 30 L230 90"/>
+    <path id="l6" d="M60 150 L230 90"/>
+    <path id="l7" d="M60 150 L230 140"/>
+
+    <path id="l8" d="M230 40 L410 65"/>
+    <path id="l9" d="M230 90 L410 65"/>
+    <path id="l10" d="M230 140 L410 65"/>
+    <path id="l11" d="M230 40 L410 115"/>
+    <path id="l12" d="M230 90 L410 115"/>
+    <path id="l13" d="M230 140 L410 115"/>
+
+    <path id="l14" d="M410 65 L580 90"/>
+    <path id="l15" d="M410 115 L580 90"/>
+
+    <path id="l16" d="M580 90 L740 90"/>
+  </g>
+
+  <!-- traveling pulses along the connections -->
+  <g stroke="url(#nnLine)" stroke-width="2.4" fill="none">
+    <use href="#l1"><animate attributeName="stroke-dasharray" values="0,400;60,400" dur="2.4s" begin="0s" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" values="0;-400" dur="2.4s" begin="0s" repeatCount="indefinite"/></use>
+    <use href="#l5"><animate attributeName="stroke-dasharray" values="0,400;60,400" dur="2.4s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" values="0;-400" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></use>
+    <use href="#l7"><animate attributeName="stroke-dasharray" values="0,400;60,400" dur="2.4s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" values="0;-400" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></use>
+    <use href="#l9"><animate attributeName="stroke-dasharray" values="0,400;60,400" dur="2s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" values="0;-400" dur="2s" begin="0.9s" repeatCount="indefinite"/></use>
+    <use href="#l11"><animate attributeName="stroke-dasharray" values="0,400;60,400" dur="2.2s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" values="0;-400" dur="2.2s" begin="1.2s" repeatCount="indefinite"/></use>
+    <use href="#l14"><animate attributeName="stroke-dasharray" values="0,400;60,400" dur="1.8s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" values="0;-400" dur="1.8s" begin="1.5s" repeatCount="indefinite"/></use>
+    <use href="#l16"><animate attributeName="stroke-dasharray" values="0,400;60,400" dur="1.6s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="stroke-dashoffset" values="0;-400" dur="1.6s" begin="1.8s" repeatCount="indefinite"/></use>
+  </g>
+
+  <!-- nodes, breathing glow -->
+  <g fill="#8FE3E0">
+    <circle cx="60" cy="30" r="6"><animate attributeName="r" values="6;8;6" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="90" r="6"><animate attributeName="r" values="6;8;6" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="150" r="6"><animate attributeName="r" values="6;8;6" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#6C63FF">
+    <circle cx="230" cy="40" r="6"><animate attributeName="r" values="6;8;6" dur="2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="90" r="6"><animate attributeName="r" values="6;8;6" dur="2.3s" begin="0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="140" r="6"><animate attributeName="r" values="6;8;6" dur="2.5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="65" r="6"><animate attributeName="r" values="6;8;6" dur="2.1s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="115" r="6"><animate attributeName="r" values="6;8;6" dur="2.4s" begin="1.3s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#FF9EB5">
+    <circle cx="580" cy="90" r="7"><animate attributeName="r" values="7;9.5;7" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="740" cy="90" r="9"><animate attributeName="r" values="9;12;9" dur="1.8s" begin="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
