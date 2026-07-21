@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Liyno7/Liyno7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Liyno+%F0%9F%91%8B;AIPM+%7C+Workflow+Engineer;RPA+%C3%97+AI+Agent+%C3%97+Low-Code" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=liyno7&color=6C63FF&style=flat-square&label=Profile+Views)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 👨‍💻 AIPM | Workflow Engineer
+- 🏢 数字化技术与智能中心 · RPA · AI Agent · Low-Code
+- 🎓 江南大学 · 数字媒体技术
+- 🛠️ Python · Vue · HTML/CSS · JavaScript · RPA · LLM / Prompt Engineering · VibeCoding
+- 🌱 AI 应用方向持续学习中
+- 🎮 ZZZ / Nintendo　🎸 贝斯　📷 摄影
+- 💬 Unfinished ideas
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,vue,html,css,js,github" />
+</div>
+
+---
+
+### 🚀 Currently Building
+
+Independently owning 6 enterprise AI systems end-to-end:
+Group Chat Intelligence & QA · VOC / Review Management · Competitor Analysis ·
+Delivery Photo QA · AIGC Idea Hub · After-sales Auto-Judgment
+
+Behind the scenes: 50+ AI Agents & low-code tables in production, across 15+ departments
+e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearance checks · cross-dept sample-making tracker
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=liyno7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyno7&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/liyno7/liyno7/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-monouai7%40foxmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monouai7@foxmail.com)
+
+</div>
