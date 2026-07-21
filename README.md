@@ -11,11 +11,11 @@
 ### 🧑‍💻 About Me
 
 - 👨‍💻 AIPM | Workflow Engineer
-- 🏢 数字化技术与智能中心 · RPA · AI Agent · Low-Code
-- 🎓 江南大学 · 数字媒体技术
+- 🏢 Digital Tech & Intelligence Center · RPA · AI Agent · Low-Code
+- 🎓 Jiangnan University · Digital Media Technology
 - 🛠️ Python · Vue · HTML/CSS · JavaScript · RPA · LLM / Prompt Engineering · VibeCoding
-- 🌱 AI 应用方向持续学习中
-- 🎮 ZZZ / Nintendo　🎸 贝斯　📷 摄影
+- 🌱 Diving deeper into AI applications
+- 🎮 ZZZ / Nintendo　🎸 Bass　📷 Photography　🕹️ Gaming　🎌 Anime
 - 💬 Unfinished ideas
 
 <div align="center">
