@@ -1,0 +1,77 @@
+<svg viewBox="0 0 520 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1e2e"/>
+      <stop offset="100%" stop-color="#181825"/>
+    </linearGradient>
+  </defs>
+
+  <!-- terminal window -->
+  <rect x="4" y="4" width="512" height="222" rx="14" fill="url(#termBg)" stroke="#313244" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect x="4" y="4" width="512" height="34" rx="14" fill="#11111b"/>
+  <rect x="4" y="24" width="512" height="14" fill="#11111b"/>
+  <circle cx="26" cy="21" r="6" fill="#FF5F56"/>
+  <circle cx="46" cy="21" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="21" r="6" fill="#27C93F"/>
+  <text x="260" y="25" font-family="Consolas, monospace" font-size="12" fill="#6c7086" text-anchor="middle">liyno@dev: ~</text>
+
+  <g font-family="Consolas, 'Fira Code', monospace" font-size="15">
+
+    <!-- line 1 -->
+    <g>
+      <clipPath id="clip1">
+        <rect x="26" y="58" height="20">
+          <animate attributeName="width" dur="12s" repeatCount="indefinite"
+            keyTimes="0;0.10;0.90;1" values="0;90;90;0"/>
+        </rect>
+      </clipPath>
+      <text x="26" y="74" clip-path="url(#clip1)" fill="#89dceb">$ whoami</text>
+    </g>
+
+    <!-- line 2 -->
+    <g>
+      <clipPath id="clip2">
+        <rect x="26" y="88" height="20">
+          <animate attributeName="width" dur="12s" repeatCount="indefinite"
+            keyTimes="0;0.15;0.25;0.90;1" values="0;0;340;340;0"/>
+        </rect>
+      </clipPath>
+      <text x="26" y="104" clip-path="url(#clip2)" fill="#a6e3a1">&gt; Liyno · AIPM | Workflow Engineer</text>
+    </g>
+
+    <!-- line 3 -->
+    <g>
+      <clipPath id="clip3">
+        <rect x="26" y="118" height="20">
+          <animate attributeName="width" dur="12s" repeatCount="indefinite"
+            keyTimes="0;0.30;0.40;0.90;1" values="0;0;290;290;0"/>
+        </rect>
+      </clipPath>
+      <text x="26" y="134" clip-path="url(#clip3)" fill="#89dceb">$ cat currently_building.log</text>
+    </g>
+
+    <!-- line 4 -->
+    <g>
+      <clipPath id="clip4">
+        <rect x="26" y="148" height="20">
+          <animate attributeName="width" dur="12s" repeatCount="indefinite"
+            keyTimes="0;0.45;0.55;0.90;1" values="0;0;450;450;0"/>
+        </rect>
+      </clipPath>
+      <text x="26" y="164" clip-path="url(#clip4)" fill="#f9e2af">&gt; 50+ AI Agents shipped · Unfinished ideas...</text>
+    </g>
+
+    <!-- idle prompt with blinking cursor -->
+    <g>
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+        keyTimes="0;0.55;0.60;0.90;1" values="0;0;1;1;0"/>
+      <text x="26" y="194" fill="#89dceb">$</text>
+      <rect x="42" y="180" width="9" height="16" fill="#cdd6f4">
+        <animate attributeName="fill-opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0;1"/>
+      </rect>
+    </g>
+
+  </g>
+</svg>
