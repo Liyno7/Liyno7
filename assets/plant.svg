@@ -1,0 +1,73 @@
+<svg viewBox="0 0 220 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="stemClip">
+      <rect x="105" y="0" width="10" height="130">
+        <animate attributeName="y" dur="8s" repeatCount="indefinite"
+          keyTimes="0;0.05;0.35;0.85;1" values="190;190;80;80;190"/>
+        <animate attributeName="height" dur="8s" repeatCount="indefinite"
+          keyTimes="0;0.05;0.35;0.85;1" values="0;0;110;110;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- pot -->
+  <path d="M75 190 L145 190 L135 225 L85 225 Z" fill="#B5652F"/>
+  <rect x="70" y="182" width="80" height="12" rx="3" fill="#8B4A22"/>
+
+  <!-- stem -->
+  <rect x="105" y="80" width="10" height="120" fill="#4E9A4E" clip-path="url(#stemClip)"/>
+
+  <!-- leaves -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
+      keyTimes="0;0.22;0.28;0.8;0.9;1" values="0;0;1;1;0;0"/>
+    <path d="M108 150 C 70 140, 60 165, 90 175 C 100 168, 105 158, 108 150 Z" fill="#5FBF5F"/>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
+      keyTimes="0;0.30;0.36;0.8;0.9;1" values="0;0;1;1;0;0"/>
+    <path d="M112 135 C 150 125, 160 150, 130 160 C 120 153, 115 143, 112 135 Z" fill="#5FBF5F"/>
+  </g>
+
+  <!-- flower -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 110 80; 0 110 80; 0 110 80; 18 110 80" keyTimes="0;0.55;0.85;1"
+      dur="8s" repeatCount="indefinite"/>
+    <g opacity="0">
+      <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
+        keyTimes="0;0.42;0.5;0.85;0.95;1" values="0;0;1;1;0;0"/>
+      <circle cx="110" cy="80" r="8" fill="#FFD36E"/>
+      <circle cx="98"  cy="72" r="8" fill="#FF9EB5"/>
+      <circle cx="122" cy="72" r="8" fill="#FF9EB5"/>
+      <circle cx="98"  cy="88" r="8" fill="#FF9EB5"/>
+      <circle cx="122" cy="88" r="8" fill="#FF9EB5"/>
+    </g>
+  </g>
+
+  <!-- watering can, tips down then back up -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 190 40; -35 190 40; -35 190 40; 0 190 40; 0 190 40"
+      keyTimes="0;0.08;0.16;0.22;1" dur="8s" repeatCount="indefinite"/>
+    <rect x="165" y="25" width="40" height="24" rx="6" fill="#6C63FF"/>
+    <rect x="140" y="30" width="28" height="8" rx="4" fill="#6C63FF"/>
+    <rect x="185" y="10" width="8" height="18" fill="#6C63FF"/>
+  </g>
+
+  <!-- water droplets -->
+  <g fill="#8FE3E0">
+    <circle cx="150" cy="55" r="3" opacity="0">
+      <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
+        keyTimes="0;0.08;0.12;0.20;0.22;1" values="0;0;1;1;0;0"/>
+      <animate attributeName="cy" dur="8s" repeatCount="indefinite"
+        keyTimes="0;0.08;0.20;1" values="45;45;80;80"/>
+    </circle>
+    <circle cx="140" cy="55" r="3" opacity="0">
+      <animate attributeName="opacity" dur="8s" repeatCount="indefinite"
+        keyTimes="0;0.10;0.14;0.21;0.23;1" values="0;0;1;1;0;0"/>
+      <animate attributeName="cy" dur="8s" repeatCount="indefinite"
+        keyTimes="0;0.10;0.21;1" values="45;45;80;80"/>
+    </circle>
+  </g>
+</svg>
