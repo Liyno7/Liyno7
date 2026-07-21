@@ -4,6 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=liyno7&color=6C63FF&style=flat-square&label=Profile+Views)
 
+<img src="./assets/neural_net.svg" width="90%"/>
+
 </div>
 
 ### 🧑‍💻 About Me
@@ -20,6 +22,10 @@
 <img src="https://skillicons.dev/icons?i=python,vue,html,css,js,github" />
 </div>
 
+<div align="center">
+<img src="./assets/terminal.svg" width="480"/>
+</div>
+
 ---
 
 ### 🚀 Currently Building
@@ -32,7 +38,19 @@ Behind the scenes: 50+ AI Agents & low-code tables in production, across 15+ dep
 e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearance checks · cross-dept sample-making tracker
 
 <div align="center">
-<img src="./assets/terminal.svg" width="480"/>
+<img src="./assets/dino.svg" width="30%"/>
+<img src="./assets/plant.svg" width="20%"/>
+<img src="./assets/kaomoji.svg" width="30%"/>
+</div>
+
+---
+
+### ⚡ Tech Vibes
+
+<div align="center">
+<img src="./assets/matrix.svg" width="30%"/>
+<img src="./assets/circuit.svg" width="30%"/>
+<img src="./assets/equalizer.svg" width="24%"/>
 </div>
 
 ---
@@ -59,7 +77,9 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 — Kino's Journey
 <!--END_SECTION:quote-->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6C63FF,100:8FE3E0&height=60&section=footer" width="100%"/>
+<div align="center">
+<img src="./assets/divider.svg" width="100%"/>
+</div>
 
 <div align="center">
 
