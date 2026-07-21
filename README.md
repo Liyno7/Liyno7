@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Liyno+%F0%9F%91%8B;AIPM+%7C+Workflow+Engineer;RPA+%C3%97+AI+Agent+%C3%97+Low-Code" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8FE3E0,100:FF9EB5&height=200&section=header&text=Liyno&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIPM%20%7C%20Workflow%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=liyno7&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
-
----
 
 ### 🧑‍💻 About Me
 
@@ -33,6 +31,10 @@ Delivery Photo QA · AIGC Idea Hub · After-sales Auto-Judgment
 Behind the scenes: 50+ AI Agents & low-code tables in production, across 15+ departments
 e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearance checks · cross-dept sample-making tracker
 
+<div align="center">
+<img src="./assets/terminal.svg" width="480"/>
+</div>
+
 ---
 
 ### 📊 GitHub Stats
@@ -44,13 +46,20 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 
 </div>
 
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/liyno7/liyno7/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
+
+### 💭 Quote of the Day
+
+<!--START_SECTION:quote-->
+💬 *"The world is not beautiful, therefore it is."*
+— Kino's Journey
+<!--END_SECTION:quote-->
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6C63FF,100:8FE3E0&height=60&section=footer" width="100%"/>
 
 <div align="center">
 
