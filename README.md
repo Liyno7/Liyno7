@@ -47,14 +47,7 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Liyno7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyno7&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-</div>
+### 📊 Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Liyno7/Liyno7/output/github-contribution-grid-snake.svg" alt="snake" />
