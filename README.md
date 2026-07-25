@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"The world isn't perfect, but it's there for us doing the best it can."*
-— Fullmetal Alchemist
+💬 *"If you don't take risks, you can't create a future."*
+— One Piece — Monkey D. Luffy
 <!--END_SECTION:quote-->
 
 <div align="center">
