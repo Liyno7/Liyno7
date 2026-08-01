@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"The world is not beautiful, therefore it is."*
-— Kino's Journey
+💬 *"The world isn't perfect, but it's there for us doing the best it can."*
+— Fullmetal Alchemist
 <!--END_SECTION:quote-->
 
 <div align="center">
