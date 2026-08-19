@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"The moment you think of giving up, think of the reason why you held on so long."*
-— Naruto
+💬 *"A person grows up when he's able to overcome hardships."*
+— Naruto — Jiraiya
 <!--END_SECTION:quote-->
 
 <div align="center">
