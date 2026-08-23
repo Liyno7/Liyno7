@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Hard work is worthless for those that don't believe in themselves."*
-— Naruto — Naruto Uzumaki
+💬 *"You should enjoy the little detours to the fullest, because that's where you'll find the things more important than what you want."*
+— Ging Freecss — Hunter x Hunter
 <!--END_SECTION:quote-->
 
 <div align="center">
