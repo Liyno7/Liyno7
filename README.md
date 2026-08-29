@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Power comes in response to a need, not a desire."*
-— Dragon Ball Z — Goku
+💬 *"I'm gonna be the next Hokage, believe it!"*
+— Naruto — Naruto Uzumaki
 <!--END_SECTION:quote-->
 
 <div align="center">
