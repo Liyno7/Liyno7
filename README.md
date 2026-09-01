@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"No matter how deep the night, it always turns to day, eventually."*
-— Batman Ninja
+💬 *"Whatever you lose, you'll find it again. But what you throw away you'll never get back."*
+— Fullmetal Alchemist — Kenny
 <!--END_SECTION:quote-->
 
 <div align="center">
