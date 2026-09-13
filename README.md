@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"A person grows up when he's able to overcome hardships."*
-— Naruto — Jiraiya
+💬 *"Power comes in response to a need, not a desire."*
+— Dragon Ball Z — Goku
 <!--END_SECTION:quote-->
 
 <div align="center">
