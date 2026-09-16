@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Whatever happens, happens."*
-— Cowboy Bebop — Spike Spiegel
+💬 *"If you don't like your destiny, don't accept it."*
+— Naruto — Naruto Uzumaki
 <!--END_SECTION:quote-->
 
 <div align="center">
