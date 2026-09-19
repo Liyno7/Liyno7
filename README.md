@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"People's lives don't end when they die. It ends when they lose faith."*
-— Naruto — Itachi Uchiha
+💬 *"No matter how deep the night, it always turns to day, eventually."*
+— Batman Ninja
 <!--END_SECTION:quote-->
 
 <div align="center">
