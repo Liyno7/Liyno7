@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Sometimes the questions are complicated and the answers are simple."*
-— Dr. Seuss (widely quoted in anime fandom)
+💬 *"Whatever happens, happens."*
+— Cowboy Bebop — Spike Spiegel
 <!--END_SECTION:quote-->
 
 <div align="center">
