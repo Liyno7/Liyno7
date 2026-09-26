@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"The world isn't perfect, but it's there for us doing the best it can."*
-— Fullmetal Alchemist
+💬 *"No matter how deep the night, it always turns to day, eventually."*
+— Batman Ninja
 <!--END_SECTION:quote-->
 
 <div align="center">
