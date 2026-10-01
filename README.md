@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Whatever you lose, you'll find it again. But what you throw away you'll never get back."*
-— Fullmetal Alchemist — Kenny
+💬 *"A person grows up when he's able to overcome hardships."*
+— Naruto — Jiraiya
 <!--END_SECTION:quote-->
 
 <div align="center">
