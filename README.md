@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"I'll leave tomorrow's problems to tomorrow's me."*
-— Fruits Basket — Kyo Sohma
+💬 *"No matter how deep the night, it always turns to day, eventually."*
+— Batman Ninja
 <!--END_SECTION:quote-->
 
 <div align="center">
