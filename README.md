@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Fear is not evil. It tells you what your weakness is."*
-— Fairy Tail — Gildarts Clive
+💬 *"Being alone is more painful than getting hurt."*
+— Naruto — Naruto Uzumaki
 <!--END_SECTION:quote-->
 
 <div align="center">
