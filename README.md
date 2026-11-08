@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"I'm gonna be the next Hokage, believe it!"*
-— Naruto — Naruto Uzumaki
+💬 *"The world is not beautiful, therefore it is."*
+— Kino's Journey
 <!--END_SECTION:quote-->
 
 <div align="center">
