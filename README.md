@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Whatever you lose, you'll find it again. But what you throw away you'll never get back."*
-— Fullmetal Alchemist — Kenny
+💬 *"A lesson without pain is meaningless."*
+— Fullmetal Alchemist — Edward Elric
 <!--END_SECTION:quote-->
 
 <div align="center">
