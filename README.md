@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Power comes in response to a need, not a desire."*
-— Dragon Ball Z — Goku
+💬 *"The world is not beautiful, therefore it is."*
+— Kino's Journey
 <!--END_SECTION:quote-->
 
 <div align="center">
