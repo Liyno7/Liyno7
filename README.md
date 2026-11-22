@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Power comes in response to a need, not a desire."*
-— Dragon Ball Z — Goku
+💬 *"Fear is not evil. It tells you what your weakness is."*
+— Fairy Tail — Gildarts Clive
 <!--END_SECTION:quote-->
 
 <div align="center">
