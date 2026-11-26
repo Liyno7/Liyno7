@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"Being alone is more painful than getting hurt."*
-— Naruto — Naruto Uzumaki
+💬 *"The moment you think of giving up, think of the reason why you held on so long."*
+— Naruto
 <!--END_SECTION:quote-->
 
 <div align="center">
