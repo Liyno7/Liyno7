@@ -58,8 +58,8 @@ e.g. auto delivery tracking & dispatch reminders · 3D elevator/doorway clearanc
 ### 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-💬 *"I'll leave tomorrow's problems to tomorrow's me."*
-— Fruits Basket — Kyo Sohma
+💬 *"If you don't take risks, you can't create a future."*
+— One Piece — Monkey D. Luffy
 <!--END_SECTION:quote-->
 
 <div align="center">
